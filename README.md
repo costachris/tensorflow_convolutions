@@ -1,2 +1,3 @@
 # tensorflow_convolutions
-Applying and learning convolutions on various datasets. 
+Applying and learning convolutions on various datasets.
+ 
